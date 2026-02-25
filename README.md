@@ -73,12 +73,6 @@ test_dataset.csv – Test set
 
 sample_images.png – Sample images with land cover labels
 
-🌄 Sample Images and Labels
-
-Here images of Grid_plot:
-<img width="787" height="838" alt="grid_plot" src="https://github.com/user-attachments/assets/c5c5aa5f-19ef-411f-983d-45f6d32757fc" />
-Here images of ncr_plot:
-<img width="365" height="428" alt="plotncr" src="https://github.com/user-attachments/assets/d8d0eb0b-b137-4d7c-9797-dd8a8f31635f" />
 
 📈 Model Accuracy
 
